@@ -5,4 +5,5 @@ Design & Model
 I'm really *not a coding guy*, even if I find Python exquisite.\
 Please be aware that the code you will find here is only meant to get things done.
 
-:bar_chart:     I’m currently working on Machine Learning and data analysis.
+#### I’m currently working on :bar_chart:
+Machine Learning & Data Analysis
